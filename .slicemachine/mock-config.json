@@ -1,0 +1,21 @@
+{
+  "slices": {
+    "Header": {},
+    "BlogPosts": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "_cts": {
+    "blogs": {},
+    "page": {}
+  }
+}

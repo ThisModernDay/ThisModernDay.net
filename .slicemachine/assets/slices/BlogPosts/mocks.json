@@ -1,0 +1,17 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "blog_posts",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Harness bricks-and-clicks vortals",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
